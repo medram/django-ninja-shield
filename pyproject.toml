@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "django-ninja-shield"
-version = "0.0.5"
+version = "0.0.6"
 description = "A python package to control permissions for django ninja."
 authors = ["medram <mramouchy@gmail.com>"]
 license = "MIT"
